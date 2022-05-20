@@ -4,7 +4,7 @@
 class Order;
 
 #define SIZE 2
-
+ 
 using namespace std;
 
 class RegisteredUser{

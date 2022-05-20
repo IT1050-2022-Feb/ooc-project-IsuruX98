@@ -3,7 +3,7 @@
 #include "registeredUser.h"
 
 using namespace std;
-
+ 
 
 RegisteredUser::RegisteredUser(){
   
