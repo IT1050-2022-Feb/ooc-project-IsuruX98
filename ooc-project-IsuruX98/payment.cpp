@@ -7,6 +7,8 @@ Payment::Payment(){
   
 }
 
+
+
 Payment::Payment(int id, string date, float total){ 
   paymentId = id;
   paymentDate = date;
